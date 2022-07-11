@@ -4,6 +4,7 @@
 }
 body{
     background: white;
+    
 }
 nav{
     background: black;
@@ -47,4 +48,25 @@ nav ul li a:hover{
     display: flex;
     justify-content: space-between;
     background: url('./assets/images/image 1.png');
+}
+.pixel{
+    margin-left: 500px;
+    display: block;
+}
+.sell{
+    margin-left: 200px;
+    text-align:start;
+    display: block;
+    margin-block-start: o.65em;
+    margin-block-end: 0.65em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.explore{
+text-align: left;
+background-color: #ed661f;
+font-weight: bold;
+border-radius: 0px;
+padding: 5px 10px;
+color: white;
 }
