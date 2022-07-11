@@ -71,8 +71,11 @@ padding: 5px 10px;
 color: white;
 }
 .index{
-    display: flex;
+    display: block;
     justify-content: center;
     box-sizing: border-box;
     justify-items: center;
+}
+.number{
+    display: block;
 }
