@@ -46,5 +46,5 @@ nav ul li a:hover{
 .quality{
     display: flex;
     justify-content: space-between;
-    background-image: linear-gradient('./assets/images/image 1.png');
+    background: url('./assets/images/image 1.png');
 }
