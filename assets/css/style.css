@@ -43,7 +43,8 @@ nav ul li a:hover{
     transition: .5s;
     color: #ed661f;
 }
-.sell{
-     background-image: url('./assets/images/image 1.png');
-     background-repeat: no-repeat;
+.quality{
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient('./assets/images/image 1.png');
 }
